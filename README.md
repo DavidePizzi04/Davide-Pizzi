@@ -1,4 +1,9 @@
-English version - 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+<div align="right">
+  <a href="#english"><strong>🇬🇧 English</strong></a> • <a href="#italiano"><strong>🇮🇹 Italiano</strong></a>
+</div>
+
+<div id="english"></div>
+
 # Hi everyone, I'm Davide Pizzi! 👋
 
 <div align="center">
@@ -24,7 +29,7 @@ Here are the languages, frameworks, and tools I work with and am currently learn
 **Programming Languages:**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for- the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -65,9 +70,13 @@ Always open to discussing new technologies, developing complex architectures, or
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davide-pizzi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidepizzi2004@gmail.com)
 
-</div>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Italian version - 🇮🇹
+<br>
+<br>
+
+---
+
+<div id="italiano"></div>
+
 # Ciao a tutti, sono Davide Pizzi! 👋
 
 <div align="center">
@@ -133,5 +142,3 @@ Sempre aperto a discutere di nuove tecnologie, sviluppo di architetture compless
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davide-pizzi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidepizzi2004@gmail.com)
-
-</div>
