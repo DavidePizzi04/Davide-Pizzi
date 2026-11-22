@@ -15,8 +15,8 @@
 I combine a background in software development with a strong passion for multimedia infrastructure, computer graphics, and streaming technologies. I enjoy solving complex problems and optimizing systems, both at the low level and by integrating cloud and AI ecosystems.
 
 - 🎓 I'm currently completing my Bachelor's degree in Computer Engineering at the Polytechnic University of Bari.
-- 🚀 Next goal: Master's degree in Computer Graphics and Multimedia.
-- 🌍 I have a strong international background thanks to a study period in Spain (Universidad de Almería).
+- 🚀 Next goal: Master's degree in **Software Engineering**.
+- 🌍 I have a strong international background thanks to a study period in **Spain (Universidad de Almería)**.
 - 💡 I'm focusing my personal studies on the integration of AI ecosystems and Microsoft infrastructures for advanced digital solutions and the implementation of AI in software.
 - 🎬 In my free time, I blend my technical and creative soul through advanced video editing and color correction.
 
@@ -88,8 +88,8 @@ Always open to discussing new technologies, developing complex architectures, or
 Combino una base nello sviluppo software con una forte passione per le infrastrutture multimediali, la computer graphics e le tecnologie di streaming. Mi piace risolvere problemi complessi e ottimizzare i sistemi operando sia a basso livello che integrando ecosistemi cloud e di Intelligenza Artificiale. 
 
 - 🎓 Attualmente sto completando la mia laurea triennale in **Ingegneria Informatica** al Politecnico di Bari.
-- 🚀 Prossimo obiettivo: Laurea Magistrale in **Computer Graphics and Multimedia**.
-- 🌍 Ho un forte background internazionale grazie a un periodo di studio in Spagna (Universidad de Almería).
+- 🚀 Prossimo obiettivo: Laurea Magistrale in **Software Engineering**.
+- 🌍 Ho un forte background internazionale grazie a un periodo di studio in **Spagna (Universidad de Almería)**.
 - 💡 Sto focalizzando i miei studi personali sull'integrazione di ecosistemi AI e infrastrutture Microsoft per soluzioni digitali avanzate e l'implementazione dell'AI nei software.
 - 🎬 Nel tempo libero, fondo la mia anima tecnica con quella creativa attraverso il video editing avanzato e la color correction.
 
